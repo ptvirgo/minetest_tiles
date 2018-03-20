@@ -1,0 +1,9 @@
+The images from each tileset are pulled from Minetest mods, subject to the terms
+set by the original authors.  In all cases redistribution is explicitly
+allowed.
+
+See the attribution.txt and license.txt files for the individual collections for
+specifics.
+
+The .tsx description files are exported by the
+[Tiled](http://www.mapeditor.org/) map editor. Consider them public domain.
