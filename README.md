@@ -27,15 +27,15 @@ I'm *kidding.*  Really.
 
 # How to use
 
-1. Download this repository.  If you don't know where you want it, *Your
-Documents/minetest* will have to do. 
+1. Download this repository.  If you don't know where you want it, **Your
+Documents/minetest** will have to do.
 2. Install the [TileD](http://www.mapeditor.org/) map editor.
     - Yes, *it's Free Software* and yes, it's available for Windows / Mac /
       Linux.
 3. Open a new file in TileD, and click **Map -> Add External Tileset.**  Open
 **minetest.tsx**
     - You should see the little blocks that look just like the ones in Minetest
-      that you can now draw with. **Yay!**
+      that you can now draw with. *Yay!*
 4. Draw your blueprint.
 5. It'd be a good idea to save your blueprint in the **blueprint** directory,
 which is right next to that **minetest.tsx** file you just opened.
