@@ -14,7 +14,7 @@ Luckily, the Minetest game textures are easily accessible, and the Free [TileD
 map editor](http://www.mapeditor.org/) works really well for laying out
 blueprints.
 
-Here is a tile-set of the most essential Minetest nodes.
+**This is a tile-set of the most essential Minetest nodes.**
 
 Now you (well, it's for me, but you can use it) can pre-plan builds using
 textures from the game.  It's *way* easier than messing around with individual
