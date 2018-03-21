@@ -5,16 +5,16 @@ Screenshot](https://raw.githubusercontent.com/ptvirgo/minetest_tiles/master/scre
 
 Trying to plan good Minetest builds with normal image editors got on my nerves
 because they aren't really set up with the expectation that a 20 x 20 grid is
-pretty big.  Pencil and graph-paper worked alright for mazes **(flash back to the
-1980s, whee!)**, but there's this thing called color you may have heard of...
+pretty big.  Pencil and graph-paper worked alright for mazes *(flash back to the
+1980s, whee!)*, but there's this thing called color you may have heard of...
 
 Wait, am I being snarky again?
 
-**Whatever.**
+*Whatever.*
 
 I took some relevant Minetest mod textures and loaded them into the
-[TileD](http://www.mapeditor.org/) map editor.  Now you (well, **I**, but I guess
-you too) can pre-plan builds using actual textures from the game.  It's wayyy
+[TileD](http://www.mapeditor.org/) map editor.  Now you (well, it's for me, but
+I *guess* you can use it) can pre-plan builds using actual textures from the game.  It's wayyy
 easier than messing around with individual pixels. You can actually get a
 pretty decent idea of whether your plan is going to look right before you waste
 an afternoon pretending to do hard labor.
@@ -23,7 +23,7 @@ I hope this will inspire some of you plebs to build something besides *yet
 another* half-roofed cobblestone cube to "live" in. Or at least put in some
 windows, wth.
 
-I'm **kidding.**  Really.
+I'm *kidding.*  Really.
 
 # How to use
 
@@ -40,4 +40,4 @@ Documents/minetest* will have to do.
 5. It'd be a good idea to save your blueprint in the **blueprint** directory,
 which is right next to that **minetest.tsx** file you just opened.
 
-I hope this helps.  Now **put the cobblestone down.**
+I hope this helps.  Now *put the cobblestone down.*
