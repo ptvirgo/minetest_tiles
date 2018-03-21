@@ -1,34 +1,30 @@
 # Minetest Textures as TileD Tilesets
 
-![TileD
+![Tile
 Screenshot](https://raw.githubusercontent.com/ptvirgo/minetest_tiles/master/screenshot.png)
 
-Trying to plan good Minetest builds with normal image editors got on my nerves
-because they aren't really set up with the expectation that a 20 x 20 grid is
-pretty big.  Pencil and graph-paper worked alright for mazes *(flash back to the
-1980s, whee!)*, but there's this thing called color you may have heard of...
+Trying to plan good Minetest builds with normal image editors got on my nerves.
+Tiny, icon-sized pixel-art isn't great for describing imaginary life-sized
+buildings.  Pencil and graph-paper worked alright for mazes, but... *flash back
+to the 1980s!*
 
 Wait, am I being snarky again?
 
-*Whatever.*
+Luckily, the Minetest game textures are easily accessible, and the Free [TileD
+map editor](http://www.mapeditor.org/) works really well for laying out
+blueprints.
 
-I took some relevant Minetest mod textures and loaded them into the
-[TileD](http://www.mapeditor.org/) map editor.  Now you (well, it's for me, but
-I *guess* you can use it) can pre-plan builds using actual textures from the game.  It's wayyy
-easier than messing around with individual pixels. You can actually get a
-pretty decent idea of whether your plan is going to look right before you waste
-an afternoon pretending to do hard labor.
+Here is a tile-set of the most essential Minetest nodes.
 
-I hope this will inspire some of you plebs to build something besides *yet
-another* half-roofed cobblestone cube to "live" in. Or at least put in some
-windows, wth.
-
-I'm *kidding.*  Really.
+Now you (well, it's for me, but you can use it) can pre-plan builds using
+textures from the game.  It's *way* easier than messing around with individual
+pixels.  Use it to test different layouts and materials ahead of time, so you
+don't waste an evening building something you hate.
 
 # How to use
 
-1. Download this repository.  If you don't know where you want it, **Your
-Documents/minetest** will have to do.
+1. Download this repository.  If you don't know where you want it: **Your
+   Documents/minetest**
 2. Install the [TileD](http://www.mapeditor.org/) map editor.
     - Yes, *it's Free Software* and yes, it's available for Windows / Mac /
       Linux.
@@ -38,6 +34,6 @@ Documents/minetest** will have to do.
       that you can now draw with. *Yay!*
 4. Draw your blueprint.
 5. It'd be a good idea to save your blueprint in the **blueprint** directory,
-which is right next to that **minetest.tsx** file you just opened.
+   which is right next to that **minetest.tsx** file you just opened.
 
-I hope this helps.  Now *put the cobblestone down.*
+I hope this helps.  Now please, *put the cobblestone down.*
