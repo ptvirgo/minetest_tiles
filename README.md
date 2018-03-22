@@ -34,6 +34,6 @@ don't waste an evening building something you hate.
       that you can now draw with. *Yay!*
 4. Draw your blueprint.
 5. It'd be a good idea to save your blueprint in the **blueprint** directory,
-   which is right next to that **minetest.tsx** file you just opened.
+   which is right next to that **minetest_game.tsx** file you just opened.
 
 I hope this helps.  Now please, *put the cobblestone down.*
