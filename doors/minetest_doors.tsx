@@ -12,4 +12,10 @@
  <tile id="3">
   <image width="16" height="16" source="images/doors_item_wood.png"/>
  </tile>
+ <tile id="4">
+  <image width="16" height="16" source="images/doors_trapdoor.png"/>
+ </tile>
+ <tile id="5">
+  <image width="16" height="16" source="images/doors_trapdoor_steel.png"/>
+ </tile>
 </tileset>

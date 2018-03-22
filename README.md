@@ -29,7 +29,7 @@ don't waste an evening building something you hate.
     - Yes, *it's Free Software* and yes, it's available for Windows / Mac /
       Linux.
 3. Open a new file in TileD, and click **Map -> Add External Tileset.**  Open
-**minetest.tsx**
+**minetest_game.tsx**
     - You should see the little blocks that look just like the ones in Minetest
       that you can now draw with. *Yay!*
 4. Draw your blueprint.
